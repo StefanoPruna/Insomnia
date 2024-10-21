@@ -6570,3 +6570,6 @@ Script Stack (0 frames) :
 [2024.10.21-06.27.13:124][964]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
 [2024.10.21-06.27.13:134][964]LogXGEController: Cleaning working directory: C:/Users/makem/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2024.10.21-06.27.13:162][964]LogPakFile: Destroying PakPlatformFile
+[2024.10.21-06.27.14:471][964]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.21-06.27.14:584][964]LogExit: Exiting.
+[2024.10.21-06.27.14:707][964]Log file closed, 10/21/24 17:27:14
